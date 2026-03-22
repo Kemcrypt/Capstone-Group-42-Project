@@ -1,23 +1,7 @@
 # Capstone-Group-42-Project
-📌 Project Title
-🛡️ Digital Guardian
+
 Digital Safety Toolkit for Schools (“Cyber-Hygiene Kit”)
 
-📖 Table of Contents
-📌 Project Overview
-❗ Problem Statement
-💡 Solution
-🎯 Success Criteria
-🌍 SDG Alignment
-🛠️ Technologies Used
-🤖 AI Component
-👥 Team Roles
-🚀 Getting Started
-📸 Screenshots
-📂 Project Structure
-🤝 Contributing
-📄 License
-📌 Project Overview
 
 Digital Guardian is a practical, easy-to-deploy cybersecurity toolkit designed to protect students and teachers in digital learning environments.
 
