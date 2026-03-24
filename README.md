@@ -1,97 +1,99 @@
 # Capstone-Group-42-Project
 
-Digital Safety Toolkit for Schools (“Cyber-Hygiene Kit”)
+# 📚 Digital Safety Toolkit for Schools
 
+## 📌 Project Overview
 
-Digital Guardian is a practical, easy-to-deploy cybersecurity toolkit designed to protect students and teachers in digital learning environments.
+The **Digital Safety Toolkit for Schools** is a practical resource designed to help students, teachers, and school administrators understand and apply safe digital practices. It provides guidance on online safety, privacy, cyber threats, and responsible internet use.
 
-As education shifts online, this toolkit ensures safe browsing, secure accounts, and improved cyber awareness in schools.
+---
 
-❗ Problem Statement
+## 🚨 Problem Statement
 
-Schools face three major cybersecurity challenges:
+With the rapid growth of internet usage among students, schools face increasing risks such as:
 
-🔓 Weak and reused passwords
-👁️ Invisible trackers and malicious ads
-📉 Limited cybersecurity knowledge among teachers
+* Cyberbullying
+* Phishing attacks
+* Data privacy breaches
+* Exposure to harmful online content
 
-These gaps expose students to data theft, privacy invasion, and cyber threats.
+Many institutions lack structured resources to educate users on digital safety.
 
-💡 Proposed Solution
-🔐 Password Manager
-Tool: Bitwarden
-Secure password generation and storage
-Eliminates password reuse
-🌐 Browser Safety Extensions
-Tools: uBlock Origin, HTTPS Everywhere
-Blocks ads, trackers, and malicious scripts
-📘 Training & Privacy Guides
-Easy-to-follow checklists
-Teacher-friendly cybersecurity training
-Builds long-term awareness
-🎯 Success Criteria
-✅ 70%+ improvement in cyber awareness
-✅ Teacher adoption in classrooms
-✅ Reduction in cyber incidents
-🌍 SDG Alignment
+---
 
-Aligned with SDG 4: Quality Education
+## 💡 Solution
 
-A safe digital space is essential for inclusive and effective learning.
+This project provides a **comprehensive, easy-to-use toolkit** that:
 
-🛠️ Technologies Used
-Password Managers
-Browser Extensions
-Documentation Tools
-AI-powered tools
-🤖 AI Component
-ChatGPT → Content drafting
-Claude → Research
-Gemini → Problem analysis
-Gamma → Presentation design
-👥 Team Roles
-📊 Technical Project Management
-Planning and execution
-Timeline and deliverables
-Risk management
-🔐 Cybersecurity Team
-Tool validation
-Security guidelines
-Awareness training
-🚀 Getting Started
-Step 1: Install Password Manager
+* Educates users on digital risks
+* Promotes safe online behavior
+* Helps schools implement safety practices
+* Raises awareness of cybersecurity fundamentals
 
-Download and install Bitwarden
+---
 
-Step 2: Add Browser Extensions
+## 🎯 SDG Alignment
 
-Install:
+This project aligns with:
 
-uBlock Origin
-HTTPS Everywhere
-Step 3: Apply Safety Guidelines
-Follow privacy checklists
-Secure accounts and devices
-Step 4: Train Users
-Introduce toolkit in classrooms
-Educate students and teachers
+* **SDG 4 – Quality Education**
+* **SDG 9 – Industry, Innovation, and Infrastructure**
 
-📂 Project Structure
-Digital-Guardian/
-│── README.md
-│── docs/
-│   ├── training-guides.pdf
-│   ├── privacy-checklists.pdf
-│── assets/
-│   ├── screenshots/
-│── src/ (optional if app is added later)
-🤝 Contributing
+---
 
-Contributions are welcome!
+## 🛠️ Technologies Used
 
+* Documentation (PDF Toolkit)
+* GitHub for version control and sharing
 
-This project is licensed under the MIT License
+---
 
-✨ Acknowledgment
+## 🤖 AI Component
+
+AI tools were used to:
+
+* Assist in content structuring
+* Enhance clarity and readability
+* Support research and documentation
+
+---
+
+## 📄 Project Resource
+
+### 👉 📥 Download the Toolkit
+
+[Download Digital Safety Toolkit](https://github.com/Kemcrypt/Capstone-Group-42-Project/blob/main/DIGITAL%20SAFETY%20TOOLKIT%20FOR%20SCHOOLS.pdf)
+
+---
+
+### 👉 📖 View Online
+
+[View Toolkit in Browser](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Kemcrypt/Capstone-Group-42-Project/main/DIGITAL%20SAFETY%20TOOLKIT%20FOR%20SCHOOLS.pdf)
+
+---
+
+## 🚀 How to Use
+
+1. Click **Download Toolkit** to save the file
+2. Or click **View Online** to read in your browser
+3. Share with students, teachers, and schools
+
+---
+
+## 👥 Contributors
+
+* Capstone Group 42
+
+---
+
+## 🌟 Project Status
+
+✅ Completed and Ready for Use
+
+---
+
+## 📬 Feedback
+
+Feel free to open an issue or contribute to improve this toolkit.
 
 Developed by Capstone Group 42 – Cybersecurity & Technical Project Management Team under Tech4Dev.
